@@ -70,7 +70,7 @@ export const experiencesData = [
     title: "Project Supervisor",
     location: "Abeokuta ",
     description:
-      "Also a team of students from a technical school surmoned me as a supervisor over their WebApp project. They're to develop an attendee webapp which can only function for students within their campus only. I was able to give clear insight of the project and help understand how they can succed in the project and I supervised each of the team members guiding through the best system till they are able to achieve their desired goal.,
+      "Also a team of students from a technical school surmoned me as a supervisor over their WebApp project. They're to develop an attendee webapp which can only function for students within their campus only. I was able to give clear insight of the project and help understand how they can succed in the project and I supervised each of the team members guiding through the best system till they are able to achieve their desired goal",
     icon: React.createElement(FaReact),
     date: "2023",
   },
