@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "META Frontend Developer Professional Course",
     location: "COUSERA",
     description:
-      "From this Meta course, I learnt the from basics of frontend developer (using HTML, CSS and Javascript) to the advance frontend developer using react (framework built  by Meta)"
+      "From this Meta course, I learnt the from basics of frontend developer (using HTML, CSS and Javascript) to the advance frontend developer using react (framework built  by Meta)",
     icon: React.createElement(LuGraduationCap),
     date: "2023",
   },
@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "META Backend Developer Professional Course",
     location: "COUSERA",
     description:
-      "Also from this course, I learnt the all the necceasary things in backend starting from the basics of PYTHON and other database managements. Then dive into APIs and using DJANGO Framework to develop APIs."
+      "Also from this course, I learnt the all the necceasary things in backend starting from the basics of PYTHON and other database managements. Then dive into APIs and using DJANGO Framework to develop APIs.",
     icon: React.createElement(LuGraduationCap),
     date: "2023",
   },
