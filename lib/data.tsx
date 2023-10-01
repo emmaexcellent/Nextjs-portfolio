@@ -7,7 +7,6 @@ import Engone from "@/public/Capture2.JPG";
 import Excelcart from "@/public/Capture3.JPG";
 import innoSummit from "@/public/Capture4.JPG";
 import littleLemon from "@/public/Capture5.JPG";
-import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
   {
