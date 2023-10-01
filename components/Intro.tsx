@@ -99,7 +99,7 @@ export default function Intro() {
           hover:scale-110 hover:text-gray-950
           active:scale-105 transition cursor-pointer border
           borderBlack dark:bg-white/10 dark:text-white/60'
-          href='https://linkedin.com' target='_blank'>
+          href='https://linkedin.com/in/emmanuel-excellent' target='_blank'>
           <BsLinkedin/>
         </a>
         <a className='bg-white p-4 flex text-gray-700
@@ -107,7 +107,7 @@ export default function Intro() {
           focus:scale-[1.15] hover:scale-[1.15]
           active:scale-105 hover:text-gray-950
           transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60'
-          href='https://github.com' target='_blank'>
+          href='https://github.com/Daddypastor' target='_blank'>
           <FaGithubSquare/>
         </a>
       </motion.div>
