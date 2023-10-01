@@ -107,7 +107,7 @@ export const projectsData = [
       "It's a project i worked on to master my skills in web development. I developed the full functions with django and also work on the frontend. It's amazing project in which I learnt a lot of new skills from professionals and I apply them to achieve the success of the project.",
     tags: ["DJANGO", "PYTHON", "PostgreSQL", "MySQL", "SQLite","Git","Deployment","CSS","JavaScript"],
     imageUrl: Excelcart,
-  },littleLemon
+  },
   {
     title: "The Innovative Summit Project",
     description:
