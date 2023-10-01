@@ -36,7 +36,7 @@ export default function Intro() {
             <Image src={pic} alt='Emmanuel Excellent'
             width={200} height={200}
             quality={95} priority={true}
-            className='h-24 w-24 rounded-full object-cover
+            className='h-50 w-50 rounded-full object-cover
             border-[0.30rem] border-white shadow-xl'
             />
           </motion.div>
@@ -60,9 +60,9 @@ export default function Intro() {
         animate={{ opacity:1, y: 0 }}>
         <span className='font-bold'>Hello, I'm Excellent.</span> I'm a{" "}
         <span className='font-bold'>Full-Stack Developer</span> with{" "}
-        <span className='font-bold'>6 years</span> of experience. I enjoy building 
-        <span className='italic'> Websites & Apps</span>. My focus is{" "}
-        <span className='underline'>Reactjs (Nextjs)</span>.
+        <span className='font-bold'>4 years</span> of experience. I enjoy building 
+        <span className='italic'> Modern Beautiful Responsive Website.</span>. My focus is{" "}
+        <span className='underline'>Reactjs (Nextjs) & DJANGO</span>.
       </motion.h1>
       <motion.div className='flex sm:flex-row items-center
         justify-center gap-2 px-4 text-lg font-medium'
