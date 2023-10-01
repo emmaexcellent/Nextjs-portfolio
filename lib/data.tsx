@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "META Backend Developer Professional Course",
     location: "COUSERA",
     description:
-      "Also from this course, I learnt the all the necceasary things in backend starting from the basics of PYTHON and other database managements. Then dive into APIs and using DJANGO Framework to develop APIs.",
+      "Also from this course, I learnt the all the neccessary things in backend starting from the basics of PYTHON and other database managements. Then dive into APIs and using DJANGO Framework to develop APIs.",
     icon: React.createElement(LuGraduationCap),
     date: "2023",
   },
@@ -62,7 +62,7 @@ export const experiencesData = [
     title: "AI Animal Recognition Project",
     location: "OOU Ibogun Campus",
     description:
-      "As I increase in networking with students around, a group of students also surmoned me to help them with their project which Animal Recognition AI. With my Python knowledge, using tensorflow, wi help them to train a model that could recognise if an image is an animal.",
+      "As I increase in networking with students around, a group of students also surmoned me to help them with their project which Animal Recognition AI. With my Python knowledge, using tensorflow, I help them to train a model that could recognise if an image is an animal.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
   },
