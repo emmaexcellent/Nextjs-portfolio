@@ -2,7 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import libraryProject from "@/public/Capture.JPG";
+import { libraryProject } from "@/public/Capture.JPG";
 import Engone from "@/public/Capture2.JPG";
 import Excelcart from "@/public/Capture3.JPG";
 import innoSummit from "@/public/Capture4.JPG";
