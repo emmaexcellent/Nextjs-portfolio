@@ -2,11 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import libraryProject from "@/public/Capture.JPG";
-import Engone from "@/public/Capture2.JPG";
-import Excelcart from "@/public/Capture3.JPG";
-import innoSummit from "@/public/Capture4.JPG";
-import littleLemon from "@/public/Capture5.JPG";
+import libraryProject from "@/public/Capture.webp";
 
 export const links = [
   {
@@ -94,34 +90,7 @@ export const projectsData = [
     tags: ["HTML", "CSS", "JavaScript", "JQuery", "Django","Python","PostgreSQL"],
     imageUrl: libraryProject,
   },
-  {
-    title: "Engone: Engineering Student Community Website",
-    description:
-      "I also worked as the Backend developer on the project. I used python (django) to build backend functions. Students were able to ask question and get answer from experts in the their field. The provider of the correct answer get score. Students can follow and and unfollow and also get updates in their field. It's such a big project i develop the backend with addition to full security.",
-    tags: ["DJANGO", "PYTHON", "DJANGO REST", "PostgreSQL", "Deployment"],
-    imageUrl: Engone,
-  },
-  {
-    title: "Functional Ecommerce Website",
-    description:
-      "It's a project i worked on to master my skills in web development. I developed the full functions with django and also work on the frontend. It's amazing project in which I learnt a lot of new skills from professionals and I apply them to achieve the success of the project.",
-    tags: ["DJANGO", "PYTHON", "PostgreSQL", "MySQL", "SQLite","Git","Deployment","CSS","JavaScript"],
-    imageUrl: Excelcart,
-  },
-  {
-    title: "The Innovative Summit Project",
-    description:
-      "I collaborated with a web developer also to design the website for the event. I contributed to the project frontend UI and also add SEO Optimization to the website to make rank 1st on google search for innovative events.",
-    tags: ["HTML", "CSS", "JavaScript", "SEO","Git","Deployment"],
-    imageUrl: innoSummit,
-  },
-  {
-    title: "Little Lemon Restaurant",
-    description:
-      "My final capstone project for the Meta fullstack course i took. Got a lot of experience from this project as I alone according the guide within the course did the project starting from designing in Figma, developing the frontend with React, backend API with DJANGO and Database with MySQL.",
-    tags: ["REACTJS", "DJANGO", "MySQL", "Figma"],
-    imageUrl: littleLemon,
-  },       
+  
 ] as const;
 
 export const skillsData = [
