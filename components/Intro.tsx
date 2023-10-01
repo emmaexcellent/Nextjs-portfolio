@@ -61,7 +61,7 @@ export default function Intro() {
         <span className='font-bold'>Hello, I'm Excellent.</span> I'm a{" "}
         <span className='font-bold'>Full-Stack Developer</span> with{" "}
         <span className='font-bold'>4 years</span> of experience. I enjoy building 
-        <span className='italic'> Modern Beautiful Responsive Website.</span>. My focus is{" "}
+        <span className='italic'>Beautiful Modern and Responsive Websites.</span>. My focus is{" "}
         <span className='underline'>Reactjs (Nextjs) & DJANGO</span>.
       </motion.h1>
       <motion.div className='flex sm:flex-row items-center
