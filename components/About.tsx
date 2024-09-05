@@ -17,29 +17,22 @@ export default function About() {
       transition={{ delay: 0.175 }}>
       <SectionHeading>About me</SectionHeading>
       <p className='mb-3'>
-        After graduating from college, I decided to pursue
-        my passion for programming before getting admission
-        to study in <span className="font-medium">University</span>.
-        I enrolled in a bootcamp and learned{" "}
-        <span className='font-medium'>Full-stack Web Development
-        </span>.<span className='italic'> My favorite part of
-        programming</span> is the Prolem-Solving aspect. I{" "}
-        <span className='underline'>love</span> the feeling of
-        finally figuring out a solution to a problem. My core
-        stack is{" "} <span className='font-medium'>
-        React, Nextjs, Nodejs, Django and MongoDB</span>.
-        I'm also familiar with TypeScript and Eslint
-      </p>
-      <p>
-        <span className='italic'>Before diving into programming,
-        </span>, I enjoy solving mathematics problems, play guitar,
-        and playing keyboard. I also enjoy{" "}
-        <span className='font-medium'>learning new things</span>.
-        I'm currently learning about{" "}
-        <span className='font-medium'>how professionals work
-        in the field of programming at companies like{" "}
-        <span className='uppercase'>Meta & Google</span>.</span>
-      </p>
+      After graduating from college, I followed my passion for programming before gaining admission to study at 
+      <span className="font-medium">university</span>. I took a proactive step by enrolling in a bootcamp, where I 
+      mastered <span className='font-medium'>Full-Stack Web Development</span>. <span className='italic'>
+      What excites me most about programming</span> is the problem-solving aspect — the thrill of cracking a complex 
+      challenge is something I <span className='underline'>truly enjoy</span>. My core stack includes 
+      <span className='font-medium'>Frontend, Backend, App Development</span>, with strong proficiency in 
+      <span className='font-medium'>React, ReactNative, Solidity, TypeScript</span> and <span className='font-medium'>ESLint</span>.
+    </p>
+    <p>
+      <span className='italic'>Before diving deep into coding</span>, I had a passion for solving mathematics problems, 
+      playing the guitar, and exploring the keyboard. Along with building technology, I have a continuous hunger for 
+      <span className='font-medium'>learning new skills</span> and expanding my horizons. Currently, I’m exploring how 
+      professionals at leading tech companies like <span className='uppercase'>Meta</span> and 
+      <span className='uppercase'>Google</span> approach development and innovation.
+    </p>
+
     </motion.section>
   )
 }
