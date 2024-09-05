@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import libraryProject from "@/public/Capture.webp";
 import Engone from "@/public/Capture2.webp";
-import uber from "@/public/newuber.PNG";
+import UberClone from "@/public/newuber.png";
 import Excelcart from "@/public/Capture3.webp";
 import innoSummit from "@/public/Capture4.webp";
 import littleLemon from "@/public/Capture5.webp";
@@ -121,10 +121,10 @@ export const projectsData = [
     description:
       "I built a fully functional UberClone mobile app by following a YouTube tutorial. Using React Native for the frontend and Appwrite for backend services, I implemented features like real-time ride tracking, user authentication, and payment integration. I also integrated Google Maps API for dynamic maps, route calculation, and fare estimates. This project gave me hands-on experience with building scalable, real-world mobile apps.",
     tags: ["ReactNative", "React", "GoogleMap", "Appwrite", "Mobile App", "IOS", "Android"],
-    imageUrl: uber,
+    imageUrl: UberClone,
   },  
   
-] as const;
+] as const;i                                                                                                                                                 
 
 export const skillsData = [
   "HTML",
