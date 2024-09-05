@@ -120,10 +120,10 @@ export const projectsData = [
     description:
       "I built a fully functional UberClone mobile app by following a YouTube tutorial. Using React Native for the frontend and Appwrite for backend services, I implemented features like real-time ride tracking, user authentication, and payment integration. I also integrated Google Maps API for dynamic maps, route calculation, and fare estimates. This project gave me hands-on experience with building scalable, real-world mobile apps.",
     tags: ["ReactNative", "React", "GoogleMap", "Appwrite", "Mobile App", "IOS", "Android"],
-    imageUrl: "",
+    imageUrl:"" ,
   },  
   
-] as const;i                                                                                                                                                 
+] as const;                                                                                          
 
 export const skillsData = [
   "HTML",
@@ -132,6 +132,8 @@ export const skillsData = [
   "Node.js",
   "TypeScript",
   "React",
+  "ReactNative",
+  "Flutter",
   "Next.js",
   "Framer Motion",
   "Git",
